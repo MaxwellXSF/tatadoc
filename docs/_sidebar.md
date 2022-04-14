@@ -1,32 +1,6 @@
 - 塔塔文档
-
-  - [项目介绍](README.md)
-  - [技术选型](doc/技术选型.md)
-  - [项目运行](doc/项目搭建.md)
-  - [UI资源包](doc/UI资源包.md)
-  - 功能介绍
-    - [登录-LoginWindow](doc/功能/登录.md)
-    - [选择服务器-ChooseServerListWnd](doc/功能/选择服务器.md)
-    - [加载-LoadingWindow](doc/功能/加载.md)
-    - [公告-NoticWnd](doc/功能/公告.md)
-    - [主界面-HudWnd](doc/功能/主界面.md)
-    - [联盟-UnionMainWnd](doc/功能/联盟.md)
-    - [首冲-FirstRechargWnd](doc/功能/首冲.md)
-    - [活动-ActivityMainWnd](doc/功能/活动.md)
-    - [七日兑换-SevenDayExChangeWnd](doc/功能/七日兑换.md)
-    - [每日签到-DailySignInWnd](doc/功能/每日签到.md)
-    - [查看奖励-ComCheckAwardWnd](doc/功能/查看奖励.md)
-    - [委任-AppointMainWnd](doc/功能/委任.md)
-    - [Windows环境下搭建蘑菇博客](doc/文档/项目搭建/Windows环境下搭建蘑菇博客/README.md)
-    - [Docker搭建蘑菇博客](doc/文档/项目搭建/Docker搭建蘑菇博客/README.md)
-    - [蘑菇博客部署到云服务器](doc/文档/项目搭建/蘑菇博客部署到云服务器/README.md)
-    - [Github Actions完成蘑菇博客持续集成](doc/文档/项目搭建/蘑菇博客使用GithubAction完成持续集成/README.md)
-    - [蘑菇博客切换搜索模式](doc/文档/项目搭建/蘑菇博客切换搜索模式/README.md)
-    - [蘑菇博客配置七牛云对象存储](doc/文档/项目搭建/蘑菇博客配置七牛云存储/README.md)
-    - [使用Zipkin搭建蘑菇博客链路追踪](doc/文档/项目搭建/使用Zipkin搭建蘑菇博客链路追踪/README.md)
-
-- **其他**
-
-  - [致谢](doc/文档/致谢.md)
-  - [将要做的事](doc/文档/将要做的事.md)
-  - [贡献代码](doc/文档/贡献代码.md)
+    - [项目介绍](README.md)
+    - [技术选型](doc/技术选型.md)
+    - [项目启动](doc/项目启动.md)
+    - 功能
+      - [功能列表](doc/功能列表.md)
